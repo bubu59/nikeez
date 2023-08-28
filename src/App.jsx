@@ -1,4 +1,5 @@
-import { Nav,
+import Nav from "./components/Nav"
+import {
   Hero, 
   PopularProducts, 
   SuperQuality, 
